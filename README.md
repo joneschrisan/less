@@ -42,7 +42,7 @@ less [string]
 
 ---
 
-### Filename
+### String
 
 The filename to read
 
