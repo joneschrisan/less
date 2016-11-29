@@ -52,6 +52,8 @@ The filename to read
 
 ---
 
+## Installing
+
 ### Linux
 
 **Native command already exists.**
